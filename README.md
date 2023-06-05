@@ -1,2 +1,4 @@
 # strivers-sde-sheet
-STRIVERS SDE SHET CHALLENGE -60DAYS
+STRIVERS SDE SHEET CHALLENGE -60DAYS
+
+STRIVER'S SDE SHEET  - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
